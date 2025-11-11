@@ -3510,6 +3510,7 @@ header .navbar.navbar-shadow {
 
 /* 3d animation footer section : footer area css */
 .footer {
+	min-height: 500px;
 	margin-top: 6.5rem;
 	padding-top: 18.5rem;
 	padding-bottom: 2.5rem;
