@@ -4714,7 +4714,43 @@ p {
 	opacity: 1;
 }
 
+.btn-app {
+	background: #000;
+	color: #ffffff;
+	padding: 0.7rem 1rem !important;
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+	width: 235px;
+	border-radius: 15px;
+	border: 2px solid #a6a6a6;
+	margin: 0 auto;
+}
+
+.btn-app:hover {
+	background: #000;
+	color: #ffffff;
+}
+
+.btn-app .text-app {
+	font-size: 1.5rem;
+	font-weight: 700;
+}
+
+.img-qrcode {
+	width: 300px;
+	margin: 0 auto 20px;
+}
+
+.text-button {
+	display: flex;
+	flex-direction: column;
+}
+
 @media (max-width: 575.98px) {
+	.btn-app {
+		margin-bottom: 80px;
+	}
 	.svg-img {
 		width: 350px !important;
 	}
