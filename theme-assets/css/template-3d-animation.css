@@ -4745,6 +4745,7 @@ p {
 .text-button {
 	display: flex;
 	flex-direction: column;
+	align-items: flex-start;
 }
 
 @media (max-width: 575.98px) {
