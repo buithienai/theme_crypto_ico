@@ -2287,7 +2287,7 @@ svg#loader g:last-child circle {
 	width: 0;
 }
 .clock-counter .flip-clock-divider .flip-clock-label {
-	font-family: 'Comfortaa', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+	font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
 	font-size: 0.875rem;
 	right: -70px;
 }
@@ -2297,7 +2297,7 @@ svg#loader g:last-child circle {
 }
 
 .clock-counter .flip .inn {
-	font-family: 'Comfortaa', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+	font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
 	font-size: 2rem;
 	font-weight: 600;
 }
